@@ -1,0 +1,2 @@
+Django>=2.2.4
+setuptools>=54.1.2
